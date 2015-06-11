@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+    <![CDATA[
+.${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} {
+
+}
+]]>
+  </content>
+  <tabTrigger>scss-class</tabTrigger>
+</snippet>

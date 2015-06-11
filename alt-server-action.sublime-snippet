@@ -1,0 +1,20 @@
+<snippet>
+  <content>
+    <![CDATA[
+import alt from 'utils/alt'
+import {createActions} from 'alt/utils/decorators'
+import ActionSuccessFailureModifier from 'utils/ActionSuccessFailureModifier'
+@createActions(alt)
+class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} {
+  constructor(){
+    let actions = ActionSuccessFailureModifier(['${2:method1}', '${3:method2}'])
+    this.generateActions(...actions)
+  }
+}
+
+export default ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}}
+
+]]>
+  </content>
+  <tabTrigger>serverAction</tabTrigger>
+</snippet>

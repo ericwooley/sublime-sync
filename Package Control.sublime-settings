@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Case Conversion",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"EsFormatter",
+		"FixMyJS",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"Gutter Themes for SL",
+		"Jade",
+		"Javascript Beautify",
+		"JSHint Gutter",
+		"JSON Reindent",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"SelectUntil",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flow",
+		"Syntax Highlighting for Sass",
+		"SyntaxFold",
+		"Tag",
+		"Text Pastry",
+		"Theme - Afterglow"
+	]
+}

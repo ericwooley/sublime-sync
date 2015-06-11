@@ -1,0 +1,23 @@
+{
+	"added_words":
+	[
+		"javascript",
+		"immutablejs",
+		"app"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (2) (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "InputMono",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"JSHint Gutter"
+	],
+	"rulers":
+	[
+		110
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
